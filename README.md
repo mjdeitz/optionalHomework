@@ -1,3 +1,3 @@
 # optionalHomework
 
-Alt-## This is Fun
+## Alt-This is Fun
