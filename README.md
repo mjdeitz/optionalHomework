@@ -2,22 +2,22 @@
 
 ## some fun extra stuff
 
-*** List ***
+***List***
 
 - Star Trek
 - Star Wars
 - Star Gazers
 
-** Cities **
+**Cities**
 
 1. New York
 2. Chicago
 3. Miami
 
-** Link **
+**Link**
 (www.google.com)
 
-** Code **
+**Code**
 
 ```javascript
 var s = "JavaScript syntax highlighting";
